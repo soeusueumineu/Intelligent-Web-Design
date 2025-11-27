@@ -53,7 +53,7 @@ JSP, MySQL, Apache Tomcat 기반으로 동작하며, 간단한 UI와 직관적�
 > http://43.200.163.19:8080/EmotionDiary/
 
 > 테스트용 계정
-> ID : test1, 
+> ID : test1<br>
 > PASSWORD : 1234
 
 ---
@@ -70,6 +70,6 @@ JSP, MySQL, Apache Tomcat 기반으로 동작하며, 간단한 UI와 직관적�
 
 ---
 
-> 제작자: 송성민
-> 과목: 지능웹설계
+> 제작자: 송성민<br>
+> 과목: 지능웹설계<br>
 > 프로젝트 목적: 개인 감정 기록 및 웹 개발 학습을 위한 과제형 프로젝트
