@@ -52,7 +52,7 @@ JSP, MySQL, Apache Tomcat 기반으로 동작하며, 간단한 UI와 직관적�
 
 > http://43.200.163.19:8080/EmotionDiary/
 
-> 테스트용 계정
+> 테스트용 계정<br>
 > ID : test1<br>
 > PASSWORD : 1234
 
